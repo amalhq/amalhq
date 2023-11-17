@@ -3,7 +3,7 @@
 
 ### Amal Saleh ✨
 
-- 👩‍💻 I'm Passionate Freelancer, currently worked with xc-ocean 
+- 👩‍💻 I'm Passionate Freelancer, currently work with xc-ocean 
 - ✋ I'm a Full Stack Mobile Developer ( Laravel Backend Developer & Flutter Developer )
 - 🌱 I’m currently improve my self in Vue.js to build dashboard for freelance project
 - 💬 Ask me about Flutter && Laravel
