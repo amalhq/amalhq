@@ -1,6 +1,7 @@
 ### Hi there 👋
+<hr>
 
-Here are some ideas to get you started:
+### Amal Saleh ✨
 
 - 👩‍💻 I'm Passionate Freelancer, currently worked with xc-ocean 
 - ✋ I'm a Full Stack Mobile Developer ( Laravel Backend Developer & Flutter Developer )
