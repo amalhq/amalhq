@@ -18,7 +18,9 @@ Projects I achieved , built with
 ![Odoo][Odoo.com]
 
 ### :fire: My Stats :
-Soon
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
