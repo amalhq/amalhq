@@ -17,12 +17,6 @@ Projects I achieved , built with
 ![Vue][Vue.js]
 ![Odoo][Odoo.com]
 
-### :fire: My Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalhq&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalhq&layout=compact&theme=radical)
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [Flutter.dev]: https://img.shields.io/badge/Flutter-065A9D?style=for-the-badge&logo=flutter&logoColor=5FC9F8
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
