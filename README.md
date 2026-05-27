@@ -35,18 +35,10 @@ Passionate about building scalable digital products, ERP systems, and modern mob
 
 ## Connect With Me
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/amal-saleh-haqas-807440b9/
+[![LinkedIn][LinkedIn-badge]](https://www.linkedin.com/in/amal-saleh-haqas-807440b9/)
 
----
 
-<div align="center">
-
-### ✨ Building solutions that combine technology, performance, and user experience ✨
-
-</div>
-
----
+[LinkedIn-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [Flutter.dev]: https://img.shields.io/badge/Flutter-065A9D?style=for-the-badge&logo=flutter&logoColor=5FC9F8
 
