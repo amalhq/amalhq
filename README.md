@@ -1,6 +1,4 @@
-# Hi there 👋
-
-<div align="center">
+<div>
 
 # Amal Saleh ✨
 
@@ -30,15 +28,6 @@ Passionate about building scalable digital products, ERP systems, and modern mob
 ### Backend Development
 ![Laravel][Laravel.com]
 ![Odoo][Odoo.com]
-
----
-
-## Connect With Me
-
-[![LinkedIn][LinkedIn-badge]](https://www.linkedin.com/in/amal-saleh-haqas-807440b9/)
-
-
-[LinkedIn-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [Flutter.dev]: https://img.shields.io/badge/Flutter-065A9D?style=for-the-badge&logo=flutter&logoColor=5FC9F8
 
