@@ -1,9 +1,7 @@
-<div>
+
 ### Software Engineer
 
 Passionate about building scalable digital products, ERP systems, and modern mobile experiences
-
-</div>
 
 ---
 
